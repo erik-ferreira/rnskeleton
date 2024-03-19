@@ -12,6 +12,12 @@ export const styles = StyleSheet.create({
     flexDirection: "row",
     alignItems: "center",
     gap: 12,
+
+    borderWidth: 1,
+    borderColor: "#F00",
+    width: 200,
+    height: 80,
+    opacity: 0,
   },
 
   avatar: {
